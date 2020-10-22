@@ -1,0 +1,6 @@
+protokoll;port;regel
+http;80;block
+ssh;443;block
+imap;143;allow
+smtp;25;allow
+ftp;20;block
